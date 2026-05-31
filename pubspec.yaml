@@ -1,5 +1,5 @@
 name: simple_stock_app
-description: A new Flutter project.
+description: Early Bird Stock Book App.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -10,6 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  mobile_scanner: ^3.5.0
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.1
+  share_plus: ^7.2.1
+  audioplayers: ^6.0.0
+  file_picker: ^8.0.0
+  excel: ^4.0.0
 
 flutter:
   uses-material-design: true
